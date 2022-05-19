@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://pizza-backend-ea.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-https://github.com/JithinPeterKasper/DQ-Dairy-Queen.git
+https://github.com/Ernesto-Ag/pizza-Project.git
 ```
 
 2. Backend setting
